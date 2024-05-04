@@ -1,0 +1,19 @@
+.card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 20px;
+    text-align: center;
+    transition: transform 0.3s ease;
+  }
+  
+  .card:hover {
+    transform: scale(1.05);
+    background-image: url('https://www.shutterstock.com/image-photo/business-card-on-black-background-600nw-791785942.jpg');
+    color: #ffffff; /* Change to the desired text color */
+  }
+  
+  .card-header {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  

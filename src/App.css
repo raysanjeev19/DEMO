@@ -1,0 +1,21 @@
+/* App.css */
+
+/* Dark mode styles */
+.dark-mode {
+  background-color: #333; /* Example background color for dark mode */
+  color: #fff; /* Example text color for dark mode */
+}
+
+.dark-mode .navbar {
+  /* Example navbar styles for dark mode */
+}
+
+/* Light mode styles */
+.light-mode {
+  background-color: #fff; /* Example background color for light mode */
+  color: #333; /* Example text color for light mode */
+}
+
+.light-mode .navbar {
+  /* Example navbar styles for light mode */
+}
